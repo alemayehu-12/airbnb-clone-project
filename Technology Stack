@@ -1,0 +1,15 @@
+## Technology Stack
+
+The Airbnb Clone Project uses a modern technology stack designed to support scalable, secure, and efficient web application development.
+
+- **Django:** A high-level Python web framework that simplifies backend development and helps build RESTful APIs quickly and securely.
+
+- **MySQL:** A powerful relational database system used to store and manage structured data such as users, bookings, properties, and reviews.
+
+- **GraphQL:** A query language for APIs that enables the frontend to request exactly the data it needs, improving performance and reducing over-fetching.
+
+- **Docker:** A containerization platform that packages the application and its dependencies into portable containers, ensuring consistency across development and production environments.
+
+- **GitHub Actions:** A continuous integration and deployment (CI/CD) tool used to automate testing and deployment workflows directly from the GitHub repository.
+
+- **Markdown:** A lightweight markup language used to create clean and readable documentation (like this README.md) for developers and stakeholders.
